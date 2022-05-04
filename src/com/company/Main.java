@@ -8,6 +8,6 @@ public class Main {
     treugolnik.b = 20;
     treugolnik.c = 5;
 
-    Triangle.area(treugolnik.a, treugolnik.b, treugolnik.c );
+    treugolnik.area();
     }
 }
